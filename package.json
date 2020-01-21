@@ -1,0 +1,36 @@
+{
+  "name": "vue-hero-ui-design-system",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "bootcatch-themes": "^2.3.0",
+    "bootstrap": "^4.3.1",
+    "core-js": "^3.3.2",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0",
+    "svgo": "1.3.0",
+    "vue": "^2.6.10",
+    "vue-date-pick": "^1.2.1",
+    "vue-fontawesome-icon": "^1.1.0",
+    "vue-prismjs": "^1.2.0",
+    "vue-router": "^3.1.3",
+    "vuejs-datepicker": "^1.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.0.0",
+    "@vue/cli-plugin-eslint": "^4.0.0",
+    "@vue/cli-service": "^4.0.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "sass": "^1.19.0",
+    "sass-loader": "^8.0.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
