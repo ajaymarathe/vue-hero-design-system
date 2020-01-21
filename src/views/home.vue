@@ -420,7 +420,7 @@
                         </div>
                         <h5 class="mb-4 text-uppercase">Block level</h5>
                         <div class="mb-5">
-                            <base-button class="mr-2 mt-2" color="dark"  display="block">primary
+                            <base-button class="mr-2 mt-2" color="warning"  display="block">primary
                             </base-button>
                         </div>
                         <div class="mb-5">
@@ -884,7 +884,7 @@ sagittis lacus vel augue laoreet rutrum faucibus.">
                                 <vue-fontawesome icon="paper-plane" class="mr-2"></vue-fontawesome>
                                 A simple primary alert—check it out!
                             </base-alert>
-                            <base-alert class="py-3" color="secondary">
+                            <base-alert class="py-3" color="secondary text-white">
                                 <vue-fontawesome icon="life-ring" class="mr-2"></vue-fontawesome>
                                 A simple secondary alert—check it out!
                             </base-alert>
@@ -1052,7 +1052,7 @@ sagittis lacus vel augue laoreet rutrum faucibus.">
                                Make sure to read docs first.</p>
                                <div>
                                    <a href="https://www.npmjs.com/package/vue-fontawesome-icon" target="_blank">
-                                    <base-button class="mr-2" color="secondary">read Docs</base-button>
+                                    <base-button class="mr-2" color="light">read Docs</base-button>
                                    </a>
                                    <a target="_blank" href="https://fontawesome.com/v4.7.0/icons/">
                                        <base-button color="dark">View icons</base-button>
