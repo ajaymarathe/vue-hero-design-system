@@ -15,7 +15,7 @@
                             <p class="lead">A beautiful Design System for Vue Lovers based on latest bootstrap. It's Free and
                                 Open Source.</p>
                             <div>
-                                <a href="#" class="text-decoration-none">
+                                <a target="_blank" href="http://blog.bootcatch.com/post/vue-components-based-design-system-is-based-on-bootcatch-themes-and-vue" class="text-decoration-none">
                                     <base-button color="outline-light" class="mr-2">
                                         <div class="d-flex align-items-center">
                                             <vue-fontawesome class="mr-2" size="1.3" icon="shield"></vue-fontawesome>
@@ -23,7 +23,7 @@
                                         </div>
                                     </base-button>
                                 </a>
-                                 <a class="text-decoration-none" href="https://github.com/ajaymarathe/vue-slateblue-ui/archive/master.zip" >
+                                 <a class="text-decoration-none" href="https://github.com/ajaymarathe/vue-hero-design-system/archive/master.zip" >
                                     <base-button color="light">
                                         <div class="d-flex align-items-center">
                                             <vue-fontawesome class="mr-2" size="1.6" icon="angle-down"></vue-fontawesome>
@@ -1070,9 +1070,11 @@ sagittis lacus vel augue laoreet rutrum faucibus.">
                             <h2 class="text-uppercase mt-5 mb-4">{{ title }} Awesome Design System</h2>
                             <p class="lead mb-4">{{ title }} Design system comes with login and register page to help you get started, also it has it's own
                             beautiful documentation to help you out. It is based on <a href="http://www.bootcatch.com/lightly" target="_blank">Hero Theme</a>. Which is based on latest Bootstrap.</p>
-                            <base-button color="primary">
-                                See all components
-                            </base-button>
+                            <a target="_blank" href="http://blog.bootcatch.com/post/vue-components-based-design-system-is-based-on-bootcatch-themes-and-vue">
+                                <base-button color="primary">
+                                    See all components
+                                </base-button>
+                            </a>
                         </div>
                         <div class="col-md-6">
                             <base-card class="border-success l-shapes light-shadow">

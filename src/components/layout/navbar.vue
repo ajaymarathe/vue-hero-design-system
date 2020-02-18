@@ -9,7 +9,7 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Components</a>
+                    <a class="nav-link" target="_blank" href="http://blog.bootcatch.com/post/vue-components-based-design-system-is-based-on-bootcatch-themes-and-vue">Components</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">
@@ -25,12 +25,13 @@
             </ul>
             <ul class="navbar-nav ml-auto d-md-flex align-items-md-center">
                 <li class="nav-item active">
-                        <a  class="btn btn-light d-flex align-items-center text-primary" href="https://github.com/ajaymarathe/vue-slateblue-ui/archive/master.zip" >
-                            <vue-fontawesome class="mr-2" icon="cloud-download" size=".8" ></vue-fontawesome>
-                            download</a>
+                    <a  class="btn btn-light d-flex align-items-center text-primary" href="https://github.com/ajaymarathe/vue-hero-design-system/archive/master.zip" >
+                        <vue-fontawesome class="mr-2" icon="cloud-download" size=".8" ></vue-fontawesome>
+                        download
+                    </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://github.com/ajaymarathe/vue-slateblue-ui" target="_blank">
+                    <a class="nav-link" href="https://github.com/ajaymarathe/vue-hero-design-system" target="_blank">
                         <vue-fontawesome size="1.5" icon="github" class="text-white"></vue-fontawesome>
                     </a>
                 </li>

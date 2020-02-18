@@ -11,17 +11,17 @@
                     </a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">
+                    <a class="nav-link" target="_blank" href="http://bootcatch.com">
                         About Us
                     </a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">
+                    <a class="nav-link" target="_blank" href="http://blog.bootcatch.com">
                         Blog
                     </a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" target="_blank" href="https://github.com/ajaymarathe/vue-slateblue-ui/blob/master/LICENSE">
+                    <a class="nav-link" target="_blank" href="https://github.com/ajaymarathe/vue-hero-design-system/blob/master/LICENSE">
                         MIT License
                     </a>
                 </li>
