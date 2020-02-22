@@ -1,36 +1,22 @@
 {
   "name": "vue-hero-design-system",
-  "version": "1.0.0",
-  "private": true,
+  "version": "0.0.1",
+  "description": "Vue Hero Design System is is Coded, Written & Published By Bootcatch, Based on Vue & Bootstrap 4.x ( Bootcatch-themes ).",
+  "main": "index.js",
   "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "bootcatch-themes": "^2.3.0",
-    "bootstrap": "^4.3.1",
-    "core-js": "^3.3.2",
-    "font-awesome": "^4.7.0",
-    "jquery": "^3.4.1",
-    "popper.js": "^1.16.0",
-    "svgo": "1.3.0",
-    "vue": "^2.6.10",
-    "vue-date-pick": "^1.2.1",
-    "vue-fontawesome-icon": "^1.1.0",
-    "vue-prismjs": "^1.2.0",
-    "vue-router": "^3.1.3",
-    "vuejs-datepicker": "^1.6.2"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaymarathe/vue-hero-design-system.git"
   },
-  "devDependencies": {
-    "@vue/cli-plugin-babel": "^4.0.0",
-    "@vue/cli-plugin-eslint": "^4.0.0",
-    "@vue/cli-service": "^4.0.0",
-    "babel-eslint": "^10.0.3",
-    "eslint": "^5.16.0",
-    "eslint-plugin-vue": "^5.0.0",
-    "sass": "^1.19.0",
-    "sass-loader": "^8.0.0",
-    "vue-template-compiler": "^2.6.10"
-  }
+  "keywords": [
+    "vue-hero-design-system", "vue", "vuejs", "vue-design-system", "vue-hero", "vue-bootcatch", "bootcatch", "vue-uikit", "vue-bootstrap-uikit", "ui-kit", "bootstrap"
+  ],
+  "author": "Ajay Marathe <0107amar@gmail.com> (http://bootcatch.com/lightly)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajaymarathe/vue-hero-design-system/issues"
+  },
+  "homepage": "https://github.com/ajaymarathe/vue-hero-design-system#readme"
 }
